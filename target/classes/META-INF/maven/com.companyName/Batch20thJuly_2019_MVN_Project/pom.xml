@@ -32,16 +32,21 @@
 		</plugins>
 	</build>
 
-
-
-
 	<dependencies>
 
-		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
+		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-server</artifactId>
-			<version>3.141.59</version>
+			<version>3.4.0</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>6.11</version>
+			<scope>test</scope>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/dom4j/dom4j -->
@@ -82,16 +87,7 @@
 			<version>2.41.2</version>
 		</dependency>
 
-
-		<dependency>
-			<groupId>com.AutomationWorldByRahul.SeleniumTraining</groupId>
-			<artifactId>ExcelReader</artifactId>
-			<scope>system</scope>
-			<version>1.0</version>
-			<systemPath>${basedir}\src\test\resources\jar_Files\ExcelReader.jar</systemPath>
-		</dependency>
-
-		<dependency>
+		 <dependency>
 			<groupId>com.AutomationWorldByRahul.SeleniumTraining</groupId>
 			<artifactId>DataCollection</artifactId>
 			<scope>system</scope>
@@ -99,7 +95,15 @@
 			<systemPath>${basedir}\src\test\resources\jar_Files\DataCollection.jar</systemPath>
 		</dependency>
 
-	</dependencies>
+		<dependency>
+			<groupId>com.AutomationWorldByRahul.SeleniumTraining</groupId>
+			<artifactId>ExcelReader</artifactId>
+			<scope>system</scope>
+			<version>1.0</version>
+			<systemPath>${basedir}\src\test\resources\jar_Files\ExcelReader.jar</systemPath>
+		</dependency> 
 
+	</dependencies>
+	
 
 </project>

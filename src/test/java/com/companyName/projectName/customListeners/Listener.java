@@ -96,17 +96,15 @@ public class Listener extends TestBase_20July implements ITestListener {
 	}
 
 	@Override
-	public void onStart(ITestContext context) { //Class start
+	public void onFinish(ITestContext arg0) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public void onFinish(ITestContext context) { //Finish executing all statements of my class 
+	public void onStart(ITestContext arg0) {
 		// TODO Auto-generated method stub
 		
-	}
-
-	
+	}	
 
 }

@@ -1,10 +1,7 @@
 package com.companyName.projectName.rough;
 
 import java.util.Hashtable;
-
 import org.testng.annotations.Test;
-
-import com.AutomationWorldByRahul.SeleniumTraining.ExcelReader;
 
 public class TestHashTable {
 	

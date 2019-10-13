@@ -20,8 +20,8 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.DataProvider;
 
-import com.companyName.projectName.utilities.DataCollection;
-import com.companyName.projectName.utilities.ExcelReader;
+import com.AutomationWorldByRahul.SeleniumTraining.DataCollection;
+import com.AutomationWorldByRahul.SeleniumTraining.ExcelReader;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;

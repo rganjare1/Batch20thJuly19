@@ -14,16 +14,16 @@
       <![CDATA[*** Script execution for TC004_Create_an_Account is completed. *** ]]>
     </line>
   </reporter-output>
-  <suite name="Regression suite" duration-ms="81039" started-at="2019-10-13T07:57:28Z" finished-at="2019-10-13T07:58:49Z">
+  <suite name="Regression suite" duration-ms="137901" started-at="2019-10-13T09:46:40Z" finished-at="2019-10-13T09:48:58Z">
     <groups>
     </groups>
-    <test name="Login functionality testing" duration-ms="81039" started-at="2019-10-13T07:57:28Z" finished-at="2019-10-13T07:58:49Z">
+    <test name="Login functionality testing" duration-ms="137901" started-at="2019-10-13T09:46:40Z" finished-at="2019-10-13T09:48:58Z">
       <class name="com.companyName.projectName.testCases.TC004_Create_an_Account">
-        <test-method status="PASS" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC004_Create_an_Account@1176cc1]" name="isSkip" is-config="true" duration-ms="1" started-at="2019-10-13T13:28:27Z" finished-at="2019-10-13T13:28:27Z">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC004_Create_an_Account@1139829]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T15:17:55Z" finished-at="2019-10-13T15:17:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isSkip -->
-        <test-method status="PASS" signature="TC004_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC004_Create_an_Account@1176cc1]" name="TC004_Create_An_Account" duration-ms="20737" started-at="2019-10-13T13:28:27Z" data-provider="Data_Collections" finished-at="2019-10-13T13:28:48Z">
+        <test-method status="PASS" signature="TC004_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC004_Create_an_Account@1139829]" name="TC004_Create_An_Account" duration-ms="61402" started-at="2019-10-13T15:17:55Z" data-provider="Data_Collections" finished-at="2019-10-13T15:18:57Z">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
         </test-method> <!-- TC004_Create_An_Account -->
       </class> <!-- com.companyName.projectName.testCases.TC004_Create_an_Account -->
       <class name="com.companyName.projectName.testCases.TC003_Create_an_Account">
-        <test-method status="SKIP" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC003_Create_an_Account@1ae2fd0]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T13:28:27Z" finished-at="2019-10-13T13:28:27Z">
+        <test-method status="SKIP" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC003_Create_an_Account@3191a6]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T15:17:55Z" finished-at="2019-10-13T15:17:55Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Skipping Testcase as it's Run Mode is marked as N]]>
@@ -77,7 +77,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isSkip -->
-        <test-method status="SKIP" signature="TC003_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC003_Create_an_Account@1ae2fd0]" name="TC003_Create_An_Account" duration-ms="1" started-at="2019-10-13T13:28:27Z" data-provider="Data_Collections" finished-at="2019-10-13T13:28:27Z">
+        <test-method status="SKIP" signature="TC003_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC003_Create_an_Account@3191a6]" name="TC003_Create_An_Account" duration-ms="1" started-at="2019-10-13T15:17:55Z" data-provider="Data_Collections" finished-at="2019-10-13T15:17:55Z">
           <params>
             <param index="0">
               <value>
@@ -90,15 +90,15 @@
         </test-method> <!-- TC003_Create_An_Account -->
       </class> <!-- com.companyName.projectName.testCases.TC003_Create_an_Account -->
       <class name="com.companyName.projectName.testCases.TC001_Create_an_Account">
-        <test-method status="PASS" signature="loadingFilesAndGenerateReport()[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@e7dcfd]" name="loadingFilesAndGenerateReport" is-config="true" duration-ms="380" started-at="2019-10-13T13:27:28Z" finished-at="2019-10-13T13:27:28Z">
+        <test-method status="PASS" signature="loadingFilesAndGenerateReport()[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@fe5c40]" name="loadingFilesAndGenerateReport" is-config="true" duration-ms="304" started-at="2019-10-13T15:16:40Z" finished-at="2019-10-13T15:16:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loadingFilesAndGenerateReport -->
-        <test-method status="PASS" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@e7dcfd]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T13:27:28Z" finished-at="2019-10-13T13:27:28Z">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@fe5c40]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T15:16:40Z" finished-at="2019-10-13T15:16:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isSkip -->
-        <test-method status="PASS" signature="TC001_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@e7dcfd]" name="TC001_Create_An_Account" duration-ms="28750" started-at="2019-10-13T13:27:28Z" data-provider="Data_Collections" finished-at="2019-10-13T13:27:57Z">
+        <test-method status="PASS" signature="TC001_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@fe5c40]" name="TC001_Create_An_Account" duration-ms="36985" started-at="2019-10-13T15:16:40Z" data-provider="Data_Collections" finished-at="2019-10-13T15:17:17Z">
           <params>
             <param index="0">
               <value>
@@ -112,13 +112,13 @@
             </line>
           </reporter-output>
         </test-method> <!-- TC001_Create_An_Account -->
-        <test-method status="PASS" signature="writeIntoExtentReports()[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@e7dcfd]" name="writeIntoExtentReports" is-config="true" duration-ms="862" started-at="2019-10-13T13:28:49Z" finished-at="2019-10-13T13:28:50Z">
+        <test-method status="PASS" signature="writeIntoExtentReports()[pri:0, instance:com.companyName.projectName.testCases.TC001_Create_an_Account@fe5c40]" name="writeIntoExtentReports" is-config="true" duration-ms="638" started-at="2019-10-13T15:18:58Z" finished-at="2019-10-13T15:18:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- writeIntoExtentReports -->
       </class> <!-- com.companyName.projectName.testCases.TC001_Create_an_Account -->
       <class name="com.companyName.projectName.testCases.TC005_Create_an_Account">
-        <test-method status="SKIP" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC005_Create_an_Account@1177a4b]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T13:28:49Z" finished-at="2019-10-13T13:28:49Z">
+        <test-method status="SKIP" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC005_Create_an_Account@1597028]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T15:18:58Z" finished-at="2019-10-13T15:18:58Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[Skipping Testcase as it's Run Mode is marked as N]]>
@@ -156,7 +156,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isSkip -->
-        <test-method status="SKIP" signature="TC005_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC005_Create_an_Account@1177a4b]" name="TC005_Create_An_Account" duration-ms="1" started-at="2019-10-13T13:28:49Z" data-provider="Data_Collections" finished-at="2019-10-13T13:28:49Z">
+        <test-method status="SKIP" signature="TC005_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC005_Create_an_Account@1597028]" name="TC005_Create_An_Account" duration-ms="1" started-at="2019-10-13T15:18:58Z" data-provider="Data_Collections" finished-at="2019-10-13T15:18:58Z">
           <params>
             <param index="0">
               <value>
@@ -169,11 +169,11 @@
         </test-method> <!-- TC005_Create_An_Account -->
       </class> <!-- com.companyName.projectName.testCases.TC005_Create_an_Account -->
       <class name="com.companyName.projectName.testCases.TC002_Create_an_Account">
-        <test-method status="PASS" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC002_Create_an_Account@128854b]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T13:27:58Z" finished-at="2019-10-13T13:27:58Z">
+        <test-method status="PASS" signature="isSkip()[pri:0, instance:com.companyName.projectName.testCases.TC002_Create_an_Account@c4f3a0]" name="isSkip" is-config="true" duration-ms="0" started-at="2019-10-13T15:17:19Z" finished-at="2019-10-13T15:17:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isSkip -->
-        <test-method status="PASS" signature="TC002_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC002_Create_an_Account@128854b]" name="TC002_Create_An_Account" duration-ms="28044" started-at="2019-10-13T13:27:58Z" data-provider="Data_Collections" finished-at="2019-10-13T13:28:26Z">
+        <test-method status="PASS" signature="TC002_Create_An_Account(java.util.Hashtable)[pri:0, instance:com.companyName.projectName.testCases.TC002_Create_an_Account@c4f3a0]" name="TC002_Create_An_Account" duration-ms="35169" started-at="2019-10-13T15:17:19Z" data-provider="Data_Collections" finished-at="2019-10-13T15:17:54Z">
           <params>
             <param index="0">
               <value>
