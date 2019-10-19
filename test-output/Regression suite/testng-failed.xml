@@ -21,12 +21,14 @@
       </class> <!-- com.companyName.projectName.testCases.TC005_Create_an_Account -->
       <class name="com.companyName.projectName.testCases.TC002_Create_an_Account">
         <methods>
+          <include name="TC002_Create_An_Account"/>
           <include name="isSkip"/>
         </methods>
       </class> <!-- com.companyName.projectName.testCases.TC002_Create_an_Account -->
       <class name="com.companyName.projectName.testCases.TC004_Create_an_Account">
         <methods>
           <include name="isSkip"/>
+          <include name="TC004_Create_An_Account"/>
         </methods>
       </class> <!-- com.companyName.projectName.testCases.TC004_Create_an_Account -->
       <class name="com.companyName.projectName.testCases.TC003_Create_an_Account">
